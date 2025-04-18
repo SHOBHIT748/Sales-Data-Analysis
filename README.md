@@ -60,6 +60,9 @@ These steps were performed using Power Query Editor in Power BI .
 
 ![image](https://github.com/user-attachments/assets/6d02783c-267b-4581-93f4-0842ca5c9bf7)
 
+![image](https://github.com/user-attachments/assets/aa6ef99a-20a0-42f2-b524-3d42d43d97f8)
+
+
 
 ## 📬 Contact
 
